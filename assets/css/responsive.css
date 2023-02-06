@@ -1,3 +1,8 @@
+@media only screen and (max-width:1100px) {
+    .table-user{
+        width: 1100px !important;
+             }
+}
 @media only screen and (max-width:991px) {
     .f-29{
         font-size: 26px;
@@ -100,6 +105,7 @@
      .side-logout{
         display: flex !important;
      }
+    
 }
 @media only screen and (max-width:776px) {
     .f-29{
