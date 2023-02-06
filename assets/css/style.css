@@ -346,7 +346,7 @@ width: 100% !important;
     color:  #EEEEEE !important;
    }
    .dataTables_wrapper .dataTables_length select{
-    color: #EEEEEE !important;
+    color: var(--primary) !important;
    }
    .dataTables_filter{
     color: #EEEEEE !important;
