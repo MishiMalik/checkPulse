@@ -413,3 +413,10 @@ border-radius: 8px 8px 0px 0px;
     padding: 7px 15px;
     
  }
+ .dropdown-menu{
+    background-color: var(--primary);
+    color: white;
+ }
+ .dropdown-menu li a{
+    color: white;
+ }
